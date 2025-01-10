@@ -20,4 +20,4 @@ createCommand({
 			components: [row],
 		});
 	}
-});
+})
